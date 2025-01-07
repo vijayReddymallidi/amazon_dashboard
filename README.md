@@ -23,7 +23,11 @@ PowerBi Desktop
 
 # TEAM MEMBERS
 [VIJAY REDDY MALLIDI](https://www.linkedin.com/in/vijay-reddy-mallidi/)
-
+[AKHILA POLU](https://www.linkedin.com/in/akhila-reddy-polu-7b5b33249/)
+[BALA ABINAV](https://www.linkedin.com/in/bala-abinav-343377266/)
+[ADHARSH PATEL](https://www.linkedin.com/in/aadarsh-patel-a7b385238/)
+[PHANINDRA PARVATHI](https://www.linkedin.com/in/phanindra-parvathi/)
+[JIGYASA KHANNA](https://www.linkedin.com/in/jigyasa-khanna-69044320a/)
 
 
 
