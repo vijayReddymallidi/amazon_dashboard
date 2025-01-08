@@ -19,7 +19,10 @@ PowerBi Desktop
 
 ![image](https://github.com/user-attachments/assets/12022db4-8d9f-4191-9ee2-56db5d6ff69a)
 
-![Screenshot 2025-01-02 180256](https://github.com/user-attachments/assets/30b89553-4913-4377-b839-54553aad5336)
+![image](https://github.com/user-attachments/assets/51cf2493-a8c5-4185-947a-df07ecc584bb)
+
+![image](https://github.com/user-attachments/assets/a485a843-ebbc-417d-b98f-c71f92ebfcca)
+
 
 # TEAM MEMBERS
 [VIJAY REDDY MALLIDI](https://www.linkedin.com/in/vijay-reddy-mallidi/) <br />
